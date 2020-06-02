@@ -1,0 +1,21 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-container {
+  font-weight: bold;
+}
+
+.footer-nav {
+  display: flex;
+  
+  a, h4 {
+    margin: 0 10px;
+  }
+
+  li, ul {
+    list-style: none;
+    padding: 0;
+  }
+}
